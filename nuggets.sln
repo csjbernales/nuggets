@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "linq", "linq\linq.csproj", "{8476424F-B2C1-4300-90A5-2728BE4008C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicgetpostapi", "basicgetpostapi\basicgetpostapi.csproj", "{57FE2866-2D42-4E24-A387-011EA2A16D9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getpostapi", "getpostapi\getpostapi.csproj", "{A95CA6D4-72DA-43D1-8E26-58AE1EA52DC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8476424F-B2C1-4300-90A5-2728BE4008C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8476424F-B2C1-4300-90A5-2728BE4008C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8476424F-B2C1-4300-90A5-2728BE4008C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{57FE2866-2D42-4E24-A387-011EA2A16D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{57FE2866-2D42-4E24-A387-011EA2A16D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{57FE2866-2D42-4E24-A387-011EA2A16D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{57FE2866-2D42-4E24-A387-011EA2A16D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95CA6D4-72DA-43D1-8E26-58AE1EA52DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95CA6D4-72DA-43D1-8E26-58AE1EA52DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95CA6D4-72DA-43D1-8E26-58AE1EA52DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95CA6D4-72DA-43D1-8E26-58AE1EA52DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

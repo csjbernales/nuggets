@@ -50,7 +50,7 @@ namespace getpostapi.Services
                 CommandType = CommandType.Text
             };
 
-            await command2.ExecuteNonQuery();
+            await command2.ExecuteNonQueryAsync();
             return await GetAllEmployees();
         }
 

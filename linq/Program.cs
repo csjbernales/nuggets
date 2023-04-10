@@ -1,6 +1,4 @@
-﻿using linq;
-
-namespace Program
+﻿namespace linq
 {
     public static class Program
     {

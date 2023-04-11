@@ -7,7 +7,7 @@ namespace getpostapi.Services
 {
     public class EmployeeServices : IEmployeeServices
     {
-        private const string connstring = "server=laptop-nonps;database=maindb;trusted_connection=true;trustservercertificate=true;";
+        private const string connstring = "Server=laptop-nonps;Database=maindb;User Id = cbernales; Password=1234;";
         public EmployeeServices() { }
 
         public async Task<List<Employee>> GetAllEmployees()
